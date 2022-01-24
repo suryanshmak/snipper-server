@@ -116,3 +116,7 @@ func setCookie(name, value string) *http.Cookie {
 		HttpOnly: false,
 	}
 }
+
+func ping(w http.ResponseWriter, r *http.Request) {
+	w.Write([]byte("OK"))
+}
