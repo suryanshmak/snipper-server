@@ -1,6 +1,6 @@
 # snipper-server
 
-What a efficient go web server looks like. Serves [snipper-client]('https://github.com/suryanshmak/snipper-client')
+What a efficient go web server looks like. Serves [snipper-client](https://github.com/suryanshmak/snipper-client)
 
 1. Prerequisites: **Go**
 
